@@ -1,0 +1,17 @@
+{
+  "name": "cbd-tasks",
+  "version": "1.0.0",
+  "description": "Component-based TODO list built with Lit",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lit": "^3.2.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
